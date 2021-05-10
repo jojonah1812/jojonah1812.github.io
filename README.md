@@ -1,9 +1,8 @@
+# 01 HTML, CSS, and Git: Code Refactor
 > **Important**: Content of this README file is based on a README file provided by © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
-# 01 HTML, CSS, and Git: Code Refactor
-
 ## Goal 
-The goal of this project was to amiliarize ourselves with Refractoring: updating existing code in order to run smoothly and have an easy-to-read presentation.
+The goal of this project was to familiarize ourselves with Refractoring: updating existing code in order to run smoothly and have an easy-to-read presentation.
 
 ## Focuses 
 I focused primarily on converting the non-semantic text into semantic text. Also, accesibility was improved for people using assistive technologies.
@@ -36,4 +35,4 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality: 
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](C:\Users\Jonah\Desktop\Repository\ucla-virt-fsf-ft-05-2021-u-lol\01-HTML-Git-CSS\02-Homework\Assets)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/Images/01-html-css-git-homework-demo.png)
